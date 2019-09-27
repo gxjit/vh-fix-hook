@@ -1,0 +1,9 @@
+{
+  "name": "vh-fix-hook",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": ["vh", "fix"],
+  "author": "Gurjit Singh",
+  "license": "MIT"
+}
