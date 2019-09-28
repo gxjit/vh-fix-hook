@@ -1,1 +1,1 @@
-export { default as useVhFix } from 'useVhFix.js'
+export { default as default } from './useVhFix.js'
